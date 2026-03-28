@@ -4,5 +4,4 @@
 
 显示方式：0.96寸OLED IIC协议
 
-markdown
 ![成品照片](images/finished.jpg)
