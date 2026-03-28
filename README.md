@@ -4,4 +4,4 @@
 
 显示方式：0.96寸OLED IIC协议
 
-(images/主图.jpg)
+![项目截图](images/主图.png)
